@@ -1,0 +1,69 @@
+*{
+    background-color:#D4B996FF;
+}
+.top_bar{
+   width:100%;
+   height: 40%;
+}
+.side_bar{
+    float:left;
+    width:19%;
+    height:80%;
+}
+.main_content{
+    float:right;
+    width:80%;
+    height:80%;
+}
+div.writing{
+    width:100%;
+}
+p.heading{
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    text-align:left;
+    font-size: 40px;
+}
+p.content{
+    color:black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: normal;
+    text-align: left;
+    font-size: 15px;
+}
+.fulltable{
+    width:100%;
+}
+table,th,td{
+    background-color: #A07855FF;
+    border: 2px solid  #A07855FF;
+}
+.tableheader{
+    color:whitesmoke;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+marquee{
+    width:100%;
+    height:4%;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: small;
+    color: white;
+    background-color: rgb(142, 94, 53);
+}
+::-webkit-scrollbar {
+  width: 10px;
+}
+::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 5px grey; 
+  border-radius: 10px;
+}
+::-webkit-scrollbar-thumb {
+  background:  #A07855FF; 
+  border-radius: 5px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(172, 166, 166, 0.854); 
+}

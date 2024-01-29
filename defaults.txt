@@ -1,0 +1,9 @@
+Text: 
+   Heading- Georgia
+   Content- Verdana
+Color Scheme:
+	-Brown Sugar (#A07855FF) rgb(205, 92, 92)            
+	-Beige (#D4B996FF) rgb(255, 160, 122)
+Sky Blue (#89ABE3FF) and White (#FCF6F5FF)
+*Island Green (#2BAE66FF) and White (#FCF6F5FF)
+Sweet Corn (#F2EDD7FF) and Toffee (#755139FF)

@@ -1,0 +1,136 @@
+* {
+    background-color: #D4B996FF;
+}
+
+body {
+    margin: 0px;
+}
+
+a:link {
+    color: black;
+    font-family: Verdana;
+    text-decoration: none;
+    font-size: small;
+    text-align: center;
+    text-decoration: none;
+    background-color: D4B996FF;
+}
+
+a:visited {
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: none;
+    font-size: small;
+    text-align: center;
+    background-color: #D4B996FF;
+}
+
+a:hover {
+    color: blue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+    text-align: center;
+    background-color: #A07855FF;
+}
+
+a:active {
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: none;
+    font-size: medium;
+    text-align: center;
+    background-color: #A07855FF;
+}
+
+marquee {
+    width: 100%;
+    height: auto;
+}
+
+#offer {
+    color: white;
+    background-color: #A07855FF;
+    width: 100%;
+    text-align: center;
+}
+
+.aright1 {
+    position: absolute;
+    top: 40px;
+    right: 2%;
+}
+
+.aright {
+    position: absolute;
+    top: 40px;
+    right: 8%;
+}
+
+.logo {
+    position: absolute;
+    top: 30%;
+    left: 3%;
+}
+
+p {
+    margin: 16px 0 0 0;
+}
+
+input[type=text] {
+    width:500px;
+    height:50px;
+    padding: none;
+    border: none;
+    position: absolute;
+    top: 40%;
+    right: 8%;
+    font-size: medium;
+    color: #A07855FF;
+    border: 2px solid #A07855FF;
+}
+
+#no1 {
+    width: 100%;
+    height: 2px;
+    background-color: #A07855FF;
+    text-shadow: none;
+    border: 0;
+    margin: 0px;
+    padding: 0px;
+    position: absolute;
+    top: 70%;
+}
+
+#no2 {
+    width: 100%;
+    height: 2px;
+    background-color: #A07855FF;
+    text-shadow: none;
+    margin: 0px;
+    border: 0;
+    padding: 0px;
+    position: absolute;
+    top: 80%;
+
+}
+
+.iconbar {
+    width: 100%;
+    position: absolute;
+    top: 71%;
+    background-color: #D4B996FF;
+    text-align: center;
+}
+
+#searchicon {
+    padding: none;
+    border: none;
+    font-size: medium;
+    position: absolute;
+    top: 40%;
+    right: 4%;
+    font-size: 50px;
+    color:#D4B996FF;
+    background-color: #A07855FF;
+    
+}

@@ -1,0 +1,19 @@
+ <div class ="writing">
+    <p class="heading">Buy Latest Jewellery Online for Women</p>
+    <p class="content">The world of jewellery is constantly evolving. Jewellery is an essential part of any woman’s life. Trends are 
+        constantly changing, making it difficult to decipher which new fashion trends are here to stay and which will be a fad. So how
+        do you know what's worth investing in? Jewellery is made from a variety of materials. The most common material for jewellery is 
+        metal. There are many different types of metal, such as silver, gold, brass, and more. Other materials used for jewellery are 
+        plastic, leather, stone, and glass.
+        <br>As you can see, there are many different ways to wear your jewellery. But it’s easy to get confused about what to wear and
+        when. The best way to do this is to take a look at what’s trending in jewellery today.
+        <br>Jewellery can be an excellent way to show off your style. Jewellery is an essential part of the fashion industry, and it's 
+        something that we all wear. What you choose to wear can say a lot about your style. An excellent jewellery piece can be the 
+        perfect finishing touch to an outfit, but it's important to remember that a piece is only as good as what it looks like on you. 
+        It's important to choose jewellery pieces that suit your style. For example, if you're more of a casual person, you might decide 
+        to wear jewellery that is simple and minimalistic, like stud earrings, hoop earrings, or a chain necklace. These pieces are easier
+        to wear with outfits throughout the day, and they will make for comfortable pieces of jewellery. The types of jewellery are
+        endless, and each has its meaning and significance. Here's a list of the most popular types of jewellery that you should know
+        about. You can find the perfect piece for you.
+    </p>
+ </div> 
